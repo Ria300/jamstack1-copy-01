@@ -5,8 +5,7 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      # NoOps Platform for
-      Big Data & Data Science
+      ## NoOps Platform for Big Data And Data Science
 
       Continuous Delivery Platform.
             Enterprise Ready.
@@ -70,7 +69,7 @@ sections:
     section_id: reviews
     subtitle: >-
       NoOps Platform for BigData & DataScience . Continuous Delivery Platform
-      Enterprise Ready
+      ,Enterprise Ready
     title: 'Learn more about NexaStack NoOps Platform '
     type: section_reviews
   - actions:
