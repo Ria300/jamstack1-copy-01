@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: blue
 header:
   has_nav: true
-  logo_img: /images/nexastack-brand.png
+  logo_img: /images/index.png
   menu:
     actions:
       - label: Sign Up
