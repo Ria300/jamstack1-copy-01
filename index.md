@@ -5,11 +5,11 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      NoOps Platform for
+      # NoOps Platform for
       Big Data & Data Science
 
       Continuous Delivery Platform.
-      Enterprise Ready.
+            Enterprise Ready.
     image: ''
     section_id: hero
     title: ''
