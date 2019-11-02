@@ -55,13 +55,6 @@ sections:
     type: section_features
   - bg: white
     reviews:
-      - author: COMPATIBILITY
-        avatar: images/review1.jpg
-        content: >-
-          NEW AND TRADITIONAL APPLICATIONSNexaStack supports your entire custom
-          applications portfolio.Rapidly build,deploy,run and manage cloud
-          native,microservices and container based .NET and Java app or
-          modernize traditional workloads.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
@@ -76,9 +69,9 @@ sections:
       - {}
     section_id: reviews
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+      NoOps Platform for BigData & DataScience . Continuous Delivery Platform
+      Enterprise Ready
+    title: 'Learn more about NexaStack NoOps Platform '
     type: section_reviews
   - actions:
       - label: Get Started
