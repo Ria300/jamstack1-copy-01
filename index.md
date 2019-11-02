@@ -76,12 +76,12 @@ sections:
       - label: Get Started
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ''
+    title: ''
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: ''
     type: section_posts
 menus:
   main:
