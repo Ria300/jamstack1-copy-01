@@ -11,7 +11,7 @@ sections:
 
       Continuous Delivery Platform.
       Enterprise Ready.
-    image: /images/index.png
+    image: ''
     section_id: hero
     title: ''
     type: section_hero
