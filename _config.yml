@@ -11,7 +11,7 @@ header:
         url: /signup
   title: Azimuth
 footer:
-  content: '&copy; Stackbit. All rights reserved.'
+  content: 'Copyright 2016 '
   has_nav: true
   has_social: true
   has_subscribe: true
@@ -22,7 +22,9 @@ footer:
   logo_img: /images/nexastack-brand.png
   nav_title: Company
   social_title: Community
-  subscribe_content: Stay up to date with our latest developments.
+  subscribe_content: >-
+    NexaStack provides DevOps as a service and Unified DevOps platform used to
+    Automate,Monitor & Analyze the secure application Delivery Pipeline
   subscribe_title: Subscribe
   tagline: SaaS theme by Stackbit
 sass:
