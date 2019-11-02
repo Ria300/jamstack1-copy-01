@@ -20,13 +20,13 @@ footer:
       text: Made with Stackbit
       url: 'https://www.stackbit.com'
   logo_img: /images/nexastack-brand.png
-  nav_title: Company
-  social_title: Community
+  nav_title: Explore Us
+  social_title: ''
   subscribe_content: >-
     NexaStack provides DevOps as a service and Unified DevOps platform used to
     Automate,Monitor & Analyze the secure application Delivery Pipeline
-  subscribe_title: Subscribe
-  tagline: SaaS theme by Stackbit
+  subscribe_title: 'Contact Us: 978167389'
+  tagline: NexaStack
 sass:
   indentWidth: 4
   precision: 10
