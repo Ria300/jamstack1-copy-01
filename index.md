@@ -5,33 +5,42 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      Continuous Delivery Platform.
+      # NoOps Platform for
 
+      # Big Data & Data Science
+
+      Continuous Delivery Platform.
       Enterprise Ready.
     image: /images/index.png
     section_id: hero
-    title: NoOps Platform for Big Data & Data Science
+    title: ''
     type: section_hero
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
+          - label: LEARN MORE
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          NEW AND TRADITIONAL APPLICATIONS
+
+          NexaStack supports your entire custom applications portfolio.Rapidly
+          build,deploy,run and manage cloud native,microservices and container
+          based .NET and Java app or modernize traditional workloads.
+        image: ''
+        title: Compatibility
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Developer And IT Ops Automation
+
+          NexaStack gives your developer self-service access to the tools they
+          need to rapidly build applications , while IT operators can very
+          easily orchestrate the environment and workflows.
+
+          Enterprise IT becomes a true service provider
+        image: ''
+        title: Usability
       - actions:
           - label: Learn More
             url: /features
@@ -43,7 +52,7 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: ''
-    title: Features
+    title: ''
     type: section_features
   - bg: white
     reviews:
