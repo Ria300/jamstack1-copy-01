@@ -5,9 +5,8 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      # NoOps Platform for
-
-      # Big Data & Data Science
+      NoOps Platform for
+      Big Data & Data Science
 
       Continuous Delivery Platform.
       Enterprise Ready.
@@ -56,11 +55,13 @@ sections:
     type: section_features
   - bg: white
     reviews:
-      - author: John Doe
+      - author: COMPATIBILITY
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          NEW AND TRADITIONAL APPLICATIONSNexaStack supports your entire custom
+          applications portfolio.Rapidly build,deploy,run and manage cloud
+          native,microservices and container based .NET and Java app or
+          modernize traditional workloads.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
@@ -72,6 +73,7 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+      - {}
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
