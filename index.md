@@ -29,24 +29,29 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Developer And IT Ops Automation
 
           NexaStack gives your developer self-service access to the tools they
           need to rapidly build applications , while IT operators can very
-          easily orchestrate the environment and workflows.
-
-          Enterprise IT becomes a true service provider
-        image: ''
+          easily orchestrate the environment and workflows.Enterprise IT becomes
+          a true service provider
+        image: /images/screenshot-from-2019-11-04-11-57-38.png
         title: Usability
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          NexaStack is a single platform spanning your multiple data centers
+          &cloud.Run NexaStack on premise or consume it as managed service on
+          the public cloud both with the assurance of complete infrastructure
+          independence.
+        image: /images/screenshot-from-2019-11-04-11-58-43.png
+        title: Interoperability
+      - content: >-
+          NexaStack enables policy driven control over all your application
+          workloads infrastructure utilizations and DevOps processes.Define the
+          appropriate policy onces and NexaStack automates enforcement
+          everytime,even down to network level.
+        image: /images/screenshot-from-2019-11-04-11-58-47.png
     section_id: features
     subtitle: ''
     title: ''
