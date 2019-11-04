@@ -78,7 +78,7 @@ sections:
           Let us demonstrate how NexaStack NoOps Platform can address your
           specific challenges and use cases
         image: /images/screenshot-from-2019-11-04-13-24-15.png
-        title: Custom Demo
+        title: CUSTOM DEMO
       - actions:
           - label: SCHEDULE DEMO
         content: >-
