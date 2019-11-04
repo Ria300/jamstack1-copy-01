@@ -70,6 +70,7 @@ sections:
       ,Enterprise Ready
     title: 'Learn more about NexaStack NoOps Platform '
     type: section_reviews
+  - type: section_hero
   - bg: gray
     section_id: recent-posts
     title: ''
