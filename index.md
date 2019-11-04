@@ -19,13 +19,12 @@ sections:
           - label: LEARN MORE
             url: /features
         content: >-
-          NEW AND TRADITIONAL APPLICATIONS
 
           NexaStack supports your entire custom applications portfolio.Rapidly
           build,deploy,run and manage cloud native,microservices and container
           based .NET and Java app or modernize traditional workloads.
         image: /images/screenshot-from-2019-11-04-11-44-20.png
-        title: Compatibility
+        title: NEW AND TRADITIONAL APPLICATIONS
       - actions:
           - label: Learn More
             url: /features
