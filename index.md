@@ -24,7 +24,7 @@ sections:
           build,deploy,run and manage cloud native,microservices and container
           based .NET and Java app or modernize traditional workloads.
         image: /images/screenshot-from-2019-11-04-11-44-20.png
-        title: NEW AND TRADITIONAL APPLICATIONS
+        title: Compatibility
       - actions:
           - label: Learn More
             url: /features
