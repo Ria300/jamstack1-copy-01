@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 menus:
   main:
-    title: Style Guide
+    title: Cognitive Intelligence
     weight: 3
 layout: page
 ---
