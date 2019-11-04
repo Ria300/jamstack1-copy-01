@@ -71,6 +71,27 @@ sections:
     title: 'Learn more about NexaStack NoOps Platform '
     type: section_reviews
   - bg: gray
+    featureslist:
+      - actions:
+          - label: REQUEST DEMO
+        content: >-
+          Let us demonstrate how NexaStack NoOps Platform can address your
+          specific challenges and use cases
+        title: Custom Demo
+      - actions:
+          - label: SCHEDULE DEMO
+        content: >-
+          Your App .Your environment.NexaStack's enterprise.Let us illustrate
+          the value of NexaStack NoOps to your organization.
+        title: PROOF OF VALUE
+      - actions:
+          - label: GET STARTED
+        content: >-
+          Not ready to commit to a custom demo? Drop in to our on-demand
+          presentation for a look at your leisure.
+        title: OPEN DEMO
+    type: section_features
+  - bg: gray
     section_id: recent-posts
     title: ''
     type: section_posts
