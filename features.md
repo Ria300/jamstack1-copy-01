@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Capabilities
 sections:
   - actions:
       - label: Free Trial
@@ -35,7 +35,7 @@ sections:
     type: section_cta
 menus:
   main:
-    title: Products
+    title: Capabilities
     weight: 2
 layout: landing
 ---
