@@ -52,6 +52,7 @@ sections:
           appropriate policy onces and NexaStack automates enforcement
           everytime,even down to network level.
         image: /images/screenshot-from-2019-11-04-11-58-47.png
+        title: Governability
     section_id: features
     subtitle: ''
     title: ''
