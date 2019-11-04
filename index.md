@@ -62,22 +62,6 @@ sections:
     subtitle: ' with Monitering& Observability using Deep learning and AI'
     title: Accelerate Application Delivery
     type: section_cta
-  - actions:
-      - label: EXPLORE MORE
-    content: |-
-      * Self provision Resources  
-      * Continuous Delivery
-      * Runbook Automation
-      * Multi Cloud support
-      * Big Data Infrastructure on Microservices
-      * Continuous Visibility
-      * Security Assessment
-      * Actionable Insights
-      * Self Healing Microservices
-      * On-Premises Deployment
-        ![](/images/nexastack-brand.png)
-    title: NexaStack NoOps Platform Capabilities
-    type: section_hero
   - bg: null
     reviews: []
     section_id: reviews
