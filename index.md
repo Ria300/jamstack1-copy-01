@@ -56,11 +56,13 @@ sections:
     title: ''
     type: section_features
   - actions:
-      - label: Get Started
+      - label: Learn More
         url: /signup
     section_id: call-to-action
     subtitle: ''
-    title: ''
+    title: >-
+      Accelerate Application Delivery with Monitering& Observability using Deep
+      learning and AI
     type: section_cta
   - bg: white
     reviews:
