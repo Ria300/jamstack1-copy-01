@@ -77,12 +77,14 @@ sections:
         content: >-
           Let us demonstrate how NexaStack NoOps Platform can address your
           specific challenges and use cases
+        image: /images/screenshot-from-2019-11-04-13-24-15.png
         title: Custom Demo
       - actions:
           - label: SCHEDULE DEMO
         content: >-
           Your App .Your environment.NexaStack's enterprise.Let us illustrate
           the value of NexaStack NoOps to your organization.
+        image: /images/screenshot-from-2019-11-04-13-24-25.png
         title: PROOF OF VALUE
       - actions:
           - label: GET STARTED
