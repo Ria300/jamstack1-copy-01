@@ -92,10 +92,6 @@ sections:
         image: /images/screenshot-from-2019-11-04-13-17-47.png
         title: OPEN DEMO
     type: section_features
-  - bg: gray
-    section_id: recent-posts
-    title: ''
-    type: section_posts
 menus:
   main:
     title: Home
