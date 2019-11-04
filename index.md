@@ -55,6 +55,13 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
+  - actions:
+      - label: Get Started
+        url: /signup
+    section_id: call-to-action
+    subtitle: ''
+    title: ''
+    type: section_cta
   - bg: white
     reviews:
       - author: Jane Roe
@@ -75,13 +82,6 @@ sections:
       ,Enterprise Ready
     title: 'Learn more about NexaStack NoOps Platform '
     type: section_reviews
-  - actions:
-      - label: Get Started
-        url: /signup
-    section_id: call-to-action
-    subtitle: ''
-    title: ''
-    type: section_cta
   - bg: gray
     section_id: recent-posts
     title: ''
