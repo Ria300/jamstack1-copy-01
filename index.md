@@ -7,7 +7,7 @@ sections:
 
       Continuous Delivery Platform.
             Enterprise Ready.
-    image: /images/nexastack-brand.png
+    image: /images/screenshot-from-2019-11-04-12-13-47.png
     section_id: hero
     title: ''
     type: section_hero
