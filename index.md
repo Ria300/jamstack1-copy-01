@@ -62,20 +62,8 @@ sections:
     subtitle: ' with Monitering& Observability using Deep learning and AI'
     title: Accelerate Application Delivery
     type: section_cta
-  - bg: white
-    reviews:
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-      - {}
+  - bg: null
+    reviews: []
     section_id: reviews
     subtitle: >-
       NoOps Platform for BigData & DataScience . Continuous Delivery Platform
