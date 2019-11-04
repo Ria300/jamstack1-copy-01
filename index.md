@@ -89,6 +89,7 @@ sections:
         content: >-
           Not ready to commit to a custom demo? Drop in to our on-demand
           presentation for a look at your leisure.
+        image: /images/screenshot-from-2019-11-04-13-17-47.png
         title: OPEN DEMO
     type: section_features
   - bg: gray
